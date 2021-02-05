@@ -1,0 +1,59 @@
+body {
+  background-color: #03045E;
+  background-repeat: repeat;
+}
+.jumbotron {
+  background-color: whitesmoke;
+}
+.name-id {
+  color: #f602dc;
+  font-family: 'Exo 2', sans-serif;
+  font-family: 'Inconsolata', monospace;
+}
+
+.div {
+  color: #f602dc;
+  font-family: 'Exo 2', sans-serif;
+  font-family: 'Inconsolata', monospace;
+}
+
+.display-12 {
+  color: grey;
+  font-family: Archivo Black;
+  font-weight: bold;
+}
+
+.btn-primary {
+  color: white;
+  background: grey;
+}
+
+.title {
+  width: 100px;
+  height: 50px;
+  line-height: 50px;
+  background-color: white;
+  text-align: center;
+  font-size: 15.5px;
+}
+.content {
+  min-height: calc(100vh - 70px);
+}
+
+.image-resize {
+  height: 300px;
+  width: 300px;
+}
+
+.card-body {
+  padding-right: 25px;
+}
+.bg-white {
+  background-color: whitesmoke;
+}
+.fas {
+  color: #f602dc;
+}
+.fab{
+  color: #f602dc;
+}
