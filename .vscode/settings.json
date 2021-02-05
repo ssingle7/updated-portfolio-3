@@ -1,6 +1,10 @@
 {
     "cSpell.words": [
         "amet",
-        "consectetur"
+        "consectetur",
+        "horiseon"
+    ],
+    "cSpell.ignoreWords": [
+        "undescriptive"
     ]
 }
